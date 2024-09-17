@@ -1,0 +1,101 @@
+body {
+    background-color: white;
+    padding: 50px;
+  }
+  #picture {
+    background-image: url("Screenshot_2024-09-07-20-07-38-13_254de13a4bc8758c9908fff1f73e3725.jpg");
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #container {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid black;
+  }
+  h1 {
+    color: #153a55;
+    margin-left: 20px;
+    font-size: 35px;
+  }
+  #objective {
+    padding-left: 30px;
+    padding-top: 10px;
+    font-size: 20px;
+  }
+  #main-div {
+    color: #153a55;
+    font-size: 22px;
+    font-weight: 300;
+    padding-top: 10px;
+    margin-right: 2px solid black;
+  }
+  #semi-1 {
+    font-size: 17px;
+    color: black;
+    padding-left: 200px;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  #b1 {
+    font-size: 18px;
+    border-radius: 3px;
+    background-color: #153a55;
+    color: white;
+  }
+  #b1:hover {
+    font-size: 20px;
+  }
+  #b2 {
+    font-size: 18px;
+    border-radius: 3px;
+    background-color: #153a55;
+    color: white;
+  }
+  
+  #b2:hover {
+    font-size: 20px;
+  }
+  #semi-2 {
+    color: black;
+    font-size: 17px;
+    padding-left: 200px;
+  }
+  #b3 {
+    font-size: 18px;
+    border-radius: 3px;
+    background-color: #153a55;
+    color: white;
+  }
+  
+  #semi-3 {
+    color: black;
+    font-size: 17px;
+    padding-left: 200px;
+  }
+  #b3:hover {
+    font-size: 20px;
+  }
+  #b4 {
+    font-size: 18px;
+    border-radius: 3px;
+    background-color: #153a55;
+    color: white;
+  }
+  
+  #semi-4 {
+    color: black;
+    font-size: 17px;
+    padding-left: 200px;
+  }
+  
+  #b4:hover {
+    font-size: 20px;
+  }
+  
